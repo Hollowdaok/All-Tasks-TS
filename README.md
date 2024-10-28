@@ -1,1 +1,2 @@
-# All-Tasks-TS
+# Task-3
+Для створеної системи для управління розкладом занять в університеті, було додано ESLint та Prettier, Husky та lint-staged. 
